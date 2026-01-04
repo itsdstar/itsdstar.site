@@ -1,2 +1,2 @@
 # itsdstar.site
-site
+site: https://itsdstar.github.io/itsdstar.site/
